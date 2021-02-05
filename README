@@ -1,0 +1,4 @@
+Scripts for BoltzTraP2
+
+- qe2boltzTwo.py
+Description: Script that converts prefix.nscf.out from QE to prefix.energy and prefix.structure for BoltzTraP2
